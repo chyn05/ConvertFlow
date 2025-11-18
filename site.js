@@ -1,0 +1,1 @@
+document.addEventListener('DOMContentLoaded', function(){const pills=document.querySelectorAll('.pill');});
